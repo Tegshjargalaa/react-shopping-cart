@@ -5,23 +5,23 @@
         "image": "/images/dress1.jpg",
         "title":"Pink SiSi dress",
         "description": "Midi sundress with shirring detail",
-        "availableSizes": ["S","M","X", "L", "XL", "XXL"],
-        "price": 29.9
+        "availableSizes": ["L", "XXL"],
+        "price": 39.9
         },
         {
             "id" : "dress2",
             "image": "/images/dress2.jpg",
             "title":"Black vintage dress",
             "description": "Midi sundress with shirring detail",
-            "availableSizes": ["S","M","X", "L", "XL", "XXL"],
-            "price": 29.9
+            "availableSizes": ["S", "XXL"],
+            "price": 60.9
         },
         {
             "id" : "dress3",
             "image": "/images/dress3.jpg",
             "title":"Summer cute dress",
             "description": "Midi sundress with shirring detail",
-            "availableSizes": ["S","M","X", "L", "XL", "XXL"],
+            "availableSizes": ["S","M","X"],
             "price": 29.9
         },
         {
@@ -30,7 +30,7 @@
             "title":"Party dress",
             "description": "Midi sundress with shirring detail",
             "availableSizes": ["S","M","X", "L", "XL", "XXL"],
-            "price": 29.9
+            "price": 40.9
         },
         {
             "id" : "dress5",
@@ -38,14 +38,14 @@
             "title":"Wedding dress",
             "description": "Midi sundress with shirring detail",
             "availableSizes": ["S","M","X", "L", "XL", "XXL"],
-            "price": 29.9
+            "price": 49.9
         },
         {
             "id" : "dress6",
             "image": "/images/dress6.jpg",
             "title":"Cocktail dress",
             "description": "Midi sundress with shirring detail",
-            "availableSizes": ["S","M","X", "L", "XL", "XXL"],
+            "availableSizes": ["M","X", "L", "XL", "XXL"],
             "price": 29.9
         }
 
